@@ -8,6 +8,7 @@
 * ## [Notebook-DotNet](https://github.com/dp9u0/Notebook-DotNet) : .Net学习总结
 * ## [Notebook-AlgorithmAndDatastructure](https://github.com/dp9u0/Notebook-AlgorithmAndDatastructure) : 算法与数据结构学习总结
 * ## [Notebook-FrontEnd](https://github.com/dp9u0/Notebook-FrontEnd) : 前端学习总结
+* ## [Notebook-Git](https://github.com/dp9u0/Notebook-Git) : Git学习总结
 
 
 
