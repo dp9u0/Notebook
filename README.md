@@ -9,4 +9,4 @@
 * ## [Notebook-AlgorithmAndDatastructure](https://github.com/dp9u0/Notebook-AlgorithmAndDatastructure) : [Writing]算法与数据结构学习总结
 * ## [Notebook-FrontEnd](https://github.com/dp9u0/Notebook-FrontEnd) : [TODO]前端学习总结
 * ## [Notebook-Git](https://github.com/dp9u0/Notebook-Git) : [V1.0.0]Git学习总结
-* ## [Notebook-Git](https://github.com/dp9u0/Notebook-ICS) : [Writing]Introduce To Computer System
+* ## [Notebook-ICS](https://github.com/dp9u0/Notebook-ICS) : [Writing]Introduce To Computer System 学习总结
