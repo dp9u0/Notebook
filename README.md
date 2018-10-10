@@ -1,13 +1,26 @@
 # Notebook
 
-* [ ] [Notebook-Network](https://github.com/dp9u0/Notebook-Network) :  网络学习总结
-* [ ] [Notebook-DesignPattern](https://github.com/dp9u0/Notebook-DesignPattern) :  设计模式学习总结
-* [ ] [Notebook-Java](https://github.com/dp9u0/Notebook-Java) :  Java学习总结
-* [ ] [Notebook-Shell](https://github.com/dp9u0/Notebook-Shell) :  Shell学习总结
-* [ ] [Notebook-OS](https://github.com/dp9u0/Notebook-OS) :  操作系统学习总结
-* [ ] [Notebook-DotNet](https://github.com/dp9u0/Notebook-DotNet) :  .Net学习总结
-* [ ] [Notebook-AlgorithmAndDatastructure](https://github.com/dp9u0/Notebook-AlgorithmAndDatastructure) : 算法与数据结构学习总结
-* [ ] [Notebook-FrontEnd](https://github.com/dp9u0/Notebook-FrontEnd) : 前端学习总结
-* [X] [Notebook-Git](https://github.com/dp9u0/Notebook-Git) : Git学习总结 [v1.0.0]
-* [ ] [Notebook-CSAPP](https://github.com/dp9u0/Notebook-CSAPP) : Introduce To Computer System 学习总结
-* [ ] [Notebook-Javascript](https://github.com/dp9u0/Notebook-Javascript) : Javascript 学习总结
+## 系统
+
+* [ ] [计算机系统](https://github.com/dp9u0/Notebook-CSAPP)
+* [ ] [操作系统](https://github.com/dp9u0/Notebook-OS)
+* [ ] [计算网络](https://github.com/dp9u0/Notebook-Network)
+* [ ] [算法与数据结构](https://github.com/dp9u0/Notebook-AlgorithmAndDatastructure)
+* [ ] 编译原理
+
+## 语言
+
+* [X] [Javascript](https://github.com/dp9u0/Notebook-Javascript) : v1.0.0
+* [ ] [Java](https://github.com/dp9u0/Notebook-Java)
+* [ ] [Shell](https://github.com/dp9u0/Notebook-Shell)
+* [ ] [DotNet](https://github.com/dp9u0/Notebook-DotNet)
+
+## 软工
+
+* [ ] [设计模式](https://github.com/dp9u0/Notebook-DesignPattern)
+* [ ] [前端架构](https://github.com/dp9u0/Notebook-FrontEnd)
+
+## 应用
+
+* [X] [Git](https://github.com/dp9u0/Notebook-Git) : v1.0.0
+* [ ] Windbg
