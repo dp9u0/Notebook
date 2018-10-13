@@ -5,7 +5,7 @@
 * [ ] [计算机系统](https://github.com/dp9u0/Notebook-CSAPP)
 * [ ] [操作系统](https://github.com/dp9u0/Notebook-OS)
 * [ ] [计算网络](https://github.com/dp9u0/Notebook-Network)
-* [ ] [算法与数据结构](https://github.com/dp9u0/Notebook-AlgorithmAndDatastructure)
+* [ ] [算法与数据结构](https://github.com/dp9u0/Notebook-Algorithm)
 * [ ] 编译原理
 
 ## 语言
