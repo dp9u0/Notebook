@@ -2,7 +2,7 @@
 
 ## 系统
 
-* [ ] [计算机系统](https://github.com/dp9u0/Notebook-CSAPP)
+* [X] [计算机系统](https://github.com/dp9u0/Notebook-CSAPP) : v1.0.0
 * [ ] [操作系统](https://github.com/dp9u0/Notebook-OS)
 * [ ] [计算网络](https://github.com/dp9u0/Notebook-Network)
 * [ ] [算法与数据结构](https://github.com/dp9u0/Notebook-Algorithm)
