@@ -29,4 +29,4 @@
 ## 应用
 
 * [X] [Git](https://github.com/dp9u0/Notebook-Git) : v1.0.0
-* [ ] [Windbg](https://github.com/dp9u0/Notebook-Windbg)
+* [X] [Windbg](https://github.com/dp9u0/Notebook-Windbg) :v1.0.0
