@@ -21,7 +21,7 @@
 * [ ] [JDK](https://github.com/dp9u0/openjdk-analysis)
 * [X] [underscore](https://github.com/dp9u0/underscore-analysis)
 
-## 软工
+## 架构与软件设计
 
 * [ ] [设计模式](https://github.com/dp9u0/Notebook-DesignPattern)
 * [ ] [前端架构](https://github.com/dp9u0/Notebook-FrontEnd)
