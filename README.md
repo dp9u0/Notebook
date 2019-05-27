@@ -7,6 +7,7 @@
 * [X] [计算网络](https://github.com/dp9u0/Notebook-Network) : v1.0.0
 * [X] [算法与数据结构](https://github.com/dp9u0/Notebook-Algorithm) : v1.0.0
 * [ ] 编译原理
+* [ ] 数据库原理
 
 ## 语言
 
