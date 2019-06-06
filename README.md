@@ -24,8 +24,9 @@
 
 ## 架构与软件设计
 
-* [ ] [设计模式](https://github.com/dp9u0/Notebook-DesignPattern)
+* [X] [设计模式](https://github.com/dp9u0/Notebook-DesignPattern) : v1.0.0
 * [ ] [前端架构](https://github.com/dp9u0/Notebook-FrontEnd)
+* [ ] 分布式架构
 
 ## 应用
 
