@@ -6,26 +6,26 @@
 * [ ] [操作系统](https://github.com/dp9u0/Notebook-OS)
 * [X] [计算网络](https://github.com/dp9u0/Notebook-Network) : v1.0.0
 * [X] [算法与数据结构](https://github.com/dp9u0/Notebook-Algorithm) : v1.0.0
-* [ ] 编译原理
-* [ ] 数据库原理
+* [ ] 编译原理 : TODO
+* [ ] 数据库原理 : TODO
 
 ## 语言
 
 * [X] [Javascript](https://github.com/dp9u0/Notebook-Javascript) : v1.0.0
-* [ ] [.Net/.NetCore](https://github.com/dp9u0/Notebook-DotNet)
-* [ ] [Shell](https://github.com/dp9u0/Notebook-Shell)
-* [ ] [Java](https://github.com/dp9u0/Notebook-Java)
+* [ ] [.Net/.NetCore](https://github.com/dp9u0/Notebook-DotNet) : DOING
+* [ ] [Shell](https://github.com/dp9u0/Notebook-Shell) : TODO
+* [ ] [Java](https://github.com/dp9u0/Notebook-Java) : TODO
 
-## 源码分析
+## 源码分析 
 
-* [ ] [.Net Core](https://github.com/dp9u0/dotnetcore-analysis)
-* [X] [underscore](https://github.com/dp9u0/underscore-analysis)
+* [ ] [.Net Core](https://github.com/dp9u0/dotnetcore-analysis) : DOING
+* [X] [underscore](https://github.com/dp9u0/underscore-analysis) : TODO
 
 ## 架构与软件设计
 
 * [X] [设计模式](https://github.com/dp9u0/Notebook-DesignPattern) : v1.0.0
-* [ ] [前端架构](https://github.com/dp9u0/Notebook-FrontEnd)
-* [ ] 分布式架构
+* [ ] [前端架构](https://github.com/dp9u0/Notebook-FrontEnd) : TODO
+* [ ] 分布式架构 : DOING
 
 ## 应用
 
