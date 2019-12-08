@@ -19,7 +19,6 @@
 ## 源码分析
 
 * [ ] [.Net Core](https://github.com/dp9u0/dotnetcore-analysis)
-* [ ] [JDK](https://github.com/dp9u0/openjdk-analysis)
 * [X] [underscore](https://github.com/dp9u0/underscore-analysis)
 
 ## 架构与软件设计
