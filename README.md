@@ -25,10 +25,10 @@
 
 * [X] [设计模式](https://github.com/dp9u0/Notebook-DesignPattern) : v1.0.0
 * [ ] [前端架构](https://github.com/dp9u0/Notebook-FrontEnd) : TODO
-* [ ] 分布式架构 : DOING
+* [ ] [分布式](https://github.com/dp9u0/Notebook-Distribution) : DOING
 
 ## 应用
 
 * [X] [Git](https://github.com/dp9u0/Notebook-Git) : v1.0.0
 * [X] [Windbg](https://github.com/dp9u0/Notebook-Windbg) :v1.0.0
-* [ ] [APP](https://github.com/dp9u0/Nodebook-App)
+* [ ] [APP](https://github.com/dp9u0/Notebook-App) : DOING
